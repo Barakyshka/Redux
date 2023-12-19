@@ -1,8 +1,17 @@
-# React + Vite
+# Notion Redux
+Многопользовательское приложение для ведения заметок. Каждый пользователь может создать, удалить и редактировать свои заметки, с использованием менеджера состояния Redux.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Для стилизации использовалась библиотека Tailwind, инструмент для разработки веб-приложений Vite и серверная часть Json-server.
 
-Currently, two official plugins are available:
+**В этом приложении есть такие страницы, как:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Регистрация
+- Логин
+- Домашняя страница
+- Заметки
+- Создание заметки
+- Редактирование заметки
+- Просмотр заметки
+- Страница 404 Not found.
+# WORK EXAMPLE
+<img width="1007" alt="redux" src="https://github.com/Barakyshka/FiltrableTodoList/assets/154346695/6b1094be-e360-4e2c-84a2-c5619060f3c1">
