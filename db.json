@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "Aa12345678",
+      "createdAt": 1700313547023
+    },
+    {
+      "email": "a@mail.ru",
+      "password": "Aa111111",
+      "createdAt": 1700755661043,
+      "id": 2
+    },
+    {
+      "email": "q@mail.ru",
+      "password": "Aa111111",
+      "createdAt": 1701274169130,
+      "id": 3
+    },
+    {
+      "email": "w@mail.ru",
+      "password": "123456Aa",
+      "createdAt": 1702133920418,
+      "id": 4
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Первая заметка",
+      "content": "Тело первой заметки",
+      "createdAt": 1700313547024
+    },
+    {
+      "title": "Rqqqq",
+      "content": "R",
+      "userId": null,
+      "createdAt": 1702137174793,
+      "id": 3
+    },
+    {
+      "title": "Rsadsad",
+      "content": "R",
+      "userId": 2,
+      "createdAt": 1702137227577,
+      "id": 4
+    },
+    {
+      "title": "R",
+      "content": "R",
+      "userId": "2",
+      "createdAt": 1701274323810,
+      "id": 5
+    }
+  ]
+}
