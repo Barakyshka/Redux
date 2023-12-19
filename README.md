@@ -15,3 +15,5 @@
 - Страница 404 Not found.
 # WORK EXAMPLE
 <img width="1007" alt="redux" src="https://github.com/Barakyshka/FiltrableTodoList/assets/154346695/6b1094be-e360-4e2c-84a2-c5619060f3c1">
+<img width="1007" alt="redux"
+ src="https://github.com/Barakyshka/FiltrableTodoList/assets/154346695/49040994-d6aa-49c0-9904-1d2defe82ba4">
